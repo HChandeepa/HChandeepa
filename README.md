@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Undergraduate and Developer
 ----------------------------------------
 
-I am an Undergraduate student who following a degree in Data Science. I am passionate about pursuing my major in Data Science. With a solid foundation in programming languages and software development methodologies, I am trying to gain hands-on experience and contribute to innovative software projects. I have knowledge about C, Python, C# ,HTML, CSS, JavaScript, PHP ,Algorithms and data structures and project management. I have many technical skills. I am quick learner , creative problem solver and able to think outside the box. I develop my skills and research about new technologies as I go forward. My aim is to make difference in technological field through researches.
+I am an Undergraduate student who following a degree in Data Science. I am passionate about pursuing my major in Data Science. With a solid foundation in programming languages and software development methodologies, I am trying to gain hands-on experience and contribute to innovative software projects. I have knowledge about C,R, Python, C# ,HTML, CSS, JavaScript, PHP ,Algorithms and data structures and project management. I have many technical skills. I am quick learner , creative problem solver and able to think outside the box. I develop my skills and research about new technologies as I go forward. My aim is to make difference in technological field through researches.
 
 * 🌍  I'm based in Colombo, Sri Lanka.
 * ✉️  You can contact me at [hchandeepap@gmail.com](mailto:hchandeepap@gmail.com)
