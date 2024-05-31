@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Heshan Chandeepa
 ========================================================================================================================================
 
-Developer and Researcher
+Data Science Undergraduate and Developer
 ------------------------
 
 A passionate undergraduate student pursuing a degree in Data Science. With a solid foundation in programming languages like R, Python, C, C#, HTML, CSS, JavaScript, and PHP, as well as expertise in algorithms and data structures, I am actively involved in hands-on projects and research endeavors. 🔬 Currently, I am focused on data analysis projects using R and Python, where I leverage my skills to derive insights from data and develop machine learning models. I am highly interested in exploring innovative techniques and methodologies to solve real-world problems through data-driven approaches. 
