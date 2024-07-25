@@ -15,7 +15,8 @@ A passionate undergraduate student pursuing a degree in Data Science. With a sol
 
 <a href="https://www.github.com/HChandeepa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HChandeepa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<!--Profile views-->
+<a href="https://u8views.com/github/HChandeepa"><img src="https://u8views.com/api/v1/github/profiles/118461284/views/day-week-month-total-count.svg"></a>
 ### Skills
 
 
